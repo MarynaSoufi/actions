@@ -1,4 +1,4 @@
-name: Deploy Project
+name: Deploy Project Parallel
 on: [push, workflow_dispatch]
 jobs:
     test:
